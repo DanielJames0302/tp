@@ -200,7 +200,7 @@ As an example, below is the sequence diagram for the Edit Candidate command when
 <box type="info" header="**Note**">
 
 The implementation of the Edit Schedule feature is similar to that of the example given above. However,
-the methods `createEditedSchedule(...)`, `hasSameDateTimeEdit(...)`, `setSchedule(...)`, and `updateFilteredScheduleList(...)` in Model component will be called for adding a schedule.
+the methods `createEditedSchedule(...)`, `hasSameDateTimeEdit(...)`, `setSchedule(...)`, and `updateFilteredScheduleList(...)` in Model component will be called for editing a schedule.
 </box>
 
 ### Delete Candidate and Delete Interview Schedule feature
